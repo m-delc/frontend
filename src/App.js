@@ -7,7 +7,6 @@ import MenuAppBar from "./components/MenuAppBar/MenuAppBar";
 function App() {
   return (
     <div className="App">
-      Yoooooooooooooooooooo
       <MenuAppBar />
       <LoginForm />
     </div>
