@@ -5,6 +5,7 @@ npm start
 npm install react-router-dom@6
 npm install --save-dev --save-exact prettier
 npm install @reduxjs/toolkit
+npm install @mui/material @emotion/react @emotion/styled
 
 Add to package.json:
     
